@@ -1,7 +1,17 @@
 {
   "Deploy": {
     "Project": {
-      "Workspaces": []
+      "Name": "testingpsgha",
+      "Alias": "testingpsgha",
+      "Id": "fac79659-670e-4c2e-b496-04905866f999",
+      "Workspaces": [
+        {
+          "Id": "57f250bb-8179-42bd-ac7d-4901c9b9fc78",
+          "Name": "Live",
+          "Type": "live",
+          "Url": "https://testingpsgha.euwest01.umbraco.io"
+        }
+      ]
     },
     "Settings": {}
   },
