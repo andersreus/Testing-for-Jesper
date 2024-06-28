@@ -1,0 +1,18 @@
+{
+  "Name": "ny deployment uden sync",
+  "Alias": "nyDeploymentUdenSync",
+  "AllowedTemplates": [],
+  "HistoryCleanup": {},
+  "Icon": "icon-document",
+  "Thumbnail": "folder.png",
+  "Permissions": {
+    "AllowedChildContentTypes": []
+  },
+  "CompositionContentTypes": [],
+  "PropertyGroups": [],
+  "PropertyTypes": [],
+  "Udi": "umb://document-type/024aa72770304f9c955239c845e6b1a4",
+  "Dependencies": [],
+  "__type": "Umbraco.Deploy.Infrastructure,Umbraco.Deploy.Infrastructure.Artifacts.ContentType.DocumentTypeArtifact",
+  "__version": "14.0.1"
+}
